@@ -1,0 +1,12 @@
+val_1 = input("Enter first integer value: ")
+val_2 = input("Enter second integer value: ")
+
+subtraction = int(val_1) - int(val_2)
+summation = int(val_1) + int(val_2)
+multiplication = int(val_1) * int(val_2)
+exponent = int(val_1) ** int(val_2)
+division = int(val_1) / int(val_2)
+print(subtraction)
+print(summation)
+print(exponent)
+print(division)
